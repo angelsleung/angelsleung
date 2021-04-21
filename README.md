@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile page! 👋😄
+# Welcome to my GitHub! 👋😄
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=angelsleung&hide=stars,contribs&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
