@@ -25,7 +25,7 @@ I am excited to share with fresh ideas from my unique background in healthcare/t
 
 ### 1. Walk with Friends
 
-A full-stack web app that encourages an active lifestyle by allowing users to share walking routes with friends
+A full-stack JavaScript, React.js, and Node.js web app that encourages an active lifestyle by allowing users to create walking routes on a map and share them with friends.
 
 [Live Site](http://walk-with-friends-app.herokuapp.com) / [Source Code](https://github.com/angelsleung/walk-with-friends)
 
@@ -33,7 +33,7 @@ A full-stack web app that encourages an active lifestyle by allowing users to sh
 
 
 ### 2. Fruit & Veg Goals
-A dynamic app that promotes a healthy diet by tracking users' fruit and vegetable intake
+A dynamic HTML, CSS, and JavaScript app that promotes a healthy lifestyle by tracking users' fruit and vegetable intake and assisting users in reaching their daily consumption goals.
 
 [Live Site](https://angelsleung.github.io/fruit-and-veg-goals) / [Source Code](https://github.com/angelsleung/fruit-and-veg-goals)
 
