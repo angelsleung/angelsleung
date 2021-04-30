@@ -1,7 +1,9 @@
 # Welcome to my GitHub! 👋😄
 
 ## 💁‍ About Me
-My experience in the healthcare industry and passion for wellness inspired me to pursue a career as a software engineer. Once I discovered how much I love using my creativity to solve problems and transforming my ideas into reality, I decided that I want to build apps that have a meaningful, lasting impact.
+My experience in the healthcare industry and passion for wellness inspired me to pursue a career as a software engineer.
+
+Once I discovered how much I love using my creativity to solve problems and transforming my ideas into reality, I decided that I want to build apps that have a meaningful, lasting impact.
 
 Since technology is the most effective way to reach as many people as possible, I am convinced we can make the world a better place by making technology more accessible, which can be done by making complex apps simple to use.
 
