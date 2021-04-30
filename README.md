@@ -17,7 +17,7 @@ Since technology is the most effective way to reach as many people as possible, 
 
 ### 1. Walk with Friends
 
-A full-stack JavaScript, React.js, and Node.js web app that encourages an active lifestyle by allowing users to create walking routes on a map and share them with friends.
+A full-stack JavaScript and React web app that encourages an active lifestyle by allowing users to create walking routes on a map and share them with friends.
 
 [Live Site](http://walk-with-friends-app.herokuapp.com) / [Source Code](https://github.com/angelsleung/walk-with-friends)
 
@@ -26,7 +26,7 @@ A full-stack JavaScript, React.js, and Node.js web app that encourages an active
 <img src="https://user-images.githubusercontent.com/65578254/116649153-90a39d00-a933-11eb-9550-bdfe861e9635.gif" width="250px">
 
 ### 2. Fruit & Veg Goals
-A dynamic HTML, CSS, and JavaScript app that promotes a healthy lifestyle by tracking users' fruit and vegetable intake and assisting users in reaching their daily consumption goals.
+A dynamic JavaScript, HTML, and CSS app that promotes a healthy lifestyle by tracking users' fruit and vegetable intake and assisting users in reaching their daily consumption goals.
 
 [Live Site](https://angelsleung.github.io/fruit-and-veg-goals) / [Source Code](https://github.com/angelsleung/fruit-and-veg-goals)
 
@@ -36,9 +36,9 @@ A dynamic HTML, CSS, and JavaScript app that promotes a healthy lifestyle by tra
 
 ## 📱 Let's connect!
 <a href="https://www.linkedin.com/in/angelsleung/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:asleung8@uw.edu/"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://drive.google.com/file/d/1vyTYavRzYYya6aKYxeiDM3KNL2iy3AlI/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
+
 <!--
 **angelsleung/angelsleung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 
 Here are some ideas to get you started:
