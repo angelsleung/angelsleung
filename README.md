@@ -5,6 +5,8 @@ My experience in the healthcare industry and passion for wellness inspired me to
 
 Since technology is the most effective way to reach as many people as possible, I am convinced we can make the world a better place by making technology more accessible, which can be done by making complex apps simple to use.
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=angelsleung&hide=stars,contribs&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🚀 Skills
 <a href="https://github.com/angelsleung"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a> <a href="https://github.com/angelsleung"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a> <a href="https://github.com/angelsleung"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a> <a href="https://github.com/angelsleung"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a> <a href="https://github.com/angelsleung"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a> <a href="https://github.com/angelsleung"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" /></a>
 
@@ -31,9 +33,6 @@ A dynamic HTML, CSS, and JavaScript app that promotes a healthy lifestyle by tra
 <img src="https://user-images.githubusercontent.com/65578254/116644404-1ae60400-a928-11eb-8d08-0caec2d0a701.png" width="200px" height="430px"> <img src="https://user-images.githubusercontent.com/65578254/116644422-29342000-a928-11eb-8615-ed265baab773.png" width="200px" height="430px"> <img src="https://user-images.githubusercontent.com/65578254/116644459-41a43a80-a928-11eb-868b-50c8465d6858.png" width="200px" height="430px"> <img src="https://user-images.githubusercontent.com/65578254/116644493-5f719f80-a928-11eb-9d73-24615f950a4b.png" width="200px" height="430px">
 
 <img src="https://user-images.githubusercontent.com/65578254/116644032-2c7adc00-a927-11eb-9143-5a0aa5f42c65.gif" width="250px">
-
-## 📊 Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=angelsleung&hide=stars,contribs&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📱 Let's connect!
 <a href="https://www.linkedin.com/in/angelsleung/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:asleung8@uw.edu/"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://drive.google.com/file/d/1vyTYavRzYYya6aKYxeiDM3KNL2iy3AlI/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
