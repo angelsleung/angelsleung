@@ -3,7 +3,7 @@
 ## 💁‍ About Me
 My experience in the healthcare field and appreciation for health and wellness inspired me to pursue a career as a software engineer.
 
-I am passionate about building apps that improve the lives of others, whether it be by motivating people to find fun in exercising with friends, or making it easier to keep track of the fruits and vegetables they are eating each day.
+I am passionate about building apps that improve the lives of others, whether it be by motivating people to find fun in exercising with friends or making it easier to keep track of the fruits and vegetables they are eating each day.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=angelsleung&hide=stars,contribs&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
