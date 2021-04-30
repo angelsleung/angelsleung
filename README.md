@@ -42,7 +42,7 @@ A dynamic HTML, CSS, and JavaScript app that promotes a healthy lifestyle by tra
 
 
 ## 📱 Let's connect!
-<a href="https://www.linkedin.com/in/angelhleung/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:angelhleung@gmail.com/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://drive.google.com/file/d/1vO0jQsdbjAOnYp3Obf7SVwn3-B9IbTxR/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/angelsleung/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:asleung8@uw.edu/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://drive.google.com/file/d/1vyTYavRzYYya6aKYxeiDM3KNL2iy3AlI/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
 <!--
 **angelsleung/angelsleung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
