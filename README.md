@@ -5,15 +5,7 @@
 ## 💁‍ About Me
 My experience in the healthcare industry and passion for wellness inspired me to pursue a career as a software engineer. Once I discovered how much I love using my creativity to solve problems and transforming my ideas into reality, I decided that I want to build apps that have a meaningful, lasting impact.
 
-Since technology is the most effective way to reach as many people as possible, I am convinced we can make the world a better place by making technology more accessible, which can be done by making complex apps simple to use. With a BA degree in Business - Information Systems, I bring a strategic and analytical approach to development.
-
-### More about me:
-- Adaptable and motivated professional who is proficient in JavaScript, CSS, and HTML
-- Exceptional communication and customer service skills through 5 years of tutoring students and 2 years working with patients/clients
-- Skilled in problem-solving, analytical thinking, and collaborative teamwork through my previous experience as an engineer in the telecom industry
-- Dedicated to empowering and improving the lives of others - exemplified through my extensive community service
-
-I am excited to share with fresh ideas from my unique background in healthcare/telecom and am determined to instill energy and positivity in everything I do. Since I am always challenging myself to continuously grow, I would love to connect to talk more about my experience and opportunities for growth! 
+Since technology is the most effective way to reach as many people as possible, I am convinced we can make the world a better place by making technology more accessible, which can be done by making complex apps simple to use.
 
 ## 🚀 Skills
 <a href="https://github.com/angelsleung"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a> <a href="https://github.com/angelsleung"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a> <a href="https://github.com/angelsleung"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a> <a href="https://github.com/angelsleung"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a> <a href="https://github.com/angelsleung"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a> <a href="https://github.com/angelsleung"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" /></a>
