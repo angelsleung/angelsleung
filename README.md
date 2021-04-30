@@ -23,7 +23,7 @@ A full-stack JavaScript, React.js, and Node.js web app that encourages an active
 
 <img src="https://user-images.githubusercontent.com/65578254/116647850-70beaa00-a930-11eb-904a-6d70c093ee9e.png" width="200px" height="430px"> <img src="https://user-images.githubusercontent.com/65578254/116647860-75835e00-a930-11eb-8ad4-87c6ae23f7a1.png" width="200px" height="430px"> <img src="https://user-images.githubusercontent.com/65578254/116647866-77e5b800-a930-11eb-9033-94bd1654223c.png" width="200px" height="430px"> <img src="https://user-images.githubusercontent.com/65578254/116647868-7a481200-a930-11eb-8802-0478590d12a6.png" width="200px" height="430px">
 
-<img src="https://user-images.githubusercontent.com/65578254/116647143-b5494600-a92e-11eb-97eb-7bad8cc1ed79.gif" width="250px">
+<img src="https://user-images.githubusercontent.com/65578254/116649153-90a39d00-a933-11eb-9550-bdfe861e9635.gif" width="250px">
 
 ### 2. Fruit & Veg Goals
 A dynamic HTML, CSS, and JavaScript app that promotes a healthy lifestyle by tracking users' fruit and vegetable intake and assisting users in reaching their daily consumption goals.
