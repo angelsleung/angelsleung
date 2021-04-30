@@ -1,11 +1,9 @@
 # Welcome to my GitHub! 👋😄
 
 ## 💁‍ About Me
-My experience in the healthcare industry and passion for wellness inspired me to pursue a career as a software engineer.
+My experience in the healthcare industry and appreciation for health and wellness inspired me to pursue a career as a software engineer.
 
-Once I discovered how much I love using my creativity to solve problems and transforming my ideas into reality, I decided that I want to build apps that have a meaningful, lasting impact.
-
-Since technology is the most effective way to reach as many people as possible, I am convinced we can make the world a better place by making technology more accessible, which can be done by making complex apps simple to use.
+I am passionate about building apps that improve the lives of others, whether it be by motivating people to find fun in exercising with friends, or making it easier to keep track of the fruits and vegetables they are eating each day.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=angelsleung&hide=stars,contribs&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -17,7 +15,7 @@ Since technology is the most effective way to reach as many people as possible, 
 
 ## 🖥️ Applications
 
-### 1. Walk with Friends
+### 1. 👟👟 Walk with Friends 🚶‍🚶‍
 
 A full-stack JavaScript and React web app that encourages an active lifestyle by allowing users to create walking routes on a map and share them with friends.
 
@@ -27,7 +25,7 @@ A full-stack JavaScript and React web app that encourages an active lifestyle by
 
 <img src="https://user-images.githubusercontent.com/65578254/116649153-90a39d00-a933-11eb-9550-bdfe861e9635.gif" width="250px">
 
-### 2. Fruit & Veg Goals
+### 2. 🍎🍌 Fruit & Veg Goals 🥕🥬
 A dynamic JavaScript, HTML, and CSS app that promotes a healthy lifestyle by tracking users' fruit and vegetable intake and assisting users in reaching their daily consumption goals.
 
 [Live Site](https://angelsleung.github.io/fruit-and-veg-goals) / [Source Code](https://github.com/angelsleung/fruit-and-veg-goals)
