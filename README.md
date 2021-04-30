@@ -15,7 +15,7 @@ I am passionate about building apps that improve the lives of others, whether it
 
 ## 🖥️ Applications
 
-### 1. 👟👟Walk with Friends🚶‍♂️🚶‍♀️
+### 1. 👟👟Walk with Friends 🚶‍♂️🚶‍♀️
 
 A full-stack JavaScript and React web app that encourages an active lifestyle by allowing users to create walking routes on a map and share them with friends.
 
