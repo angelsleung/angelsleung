@@ -20,8 +20,12 @@ Since technology is the most effective way to reach as many people as possible, 
 A full-stack JavaScript, React.js, and Node.js web app that encourages an active lifestyle by allowing users to create walking routes on a map and share them with friends.
 
 [Live Site](http://walk-with-friends-app.herokuapp.com) / [Source Code](https://github.com/angelsleung/walk-with-friends)
+<img src="https://user-images.githubusercontent.com/65578254/116647850-70beaa00-a930-11eb-904a-6d70c093ee9e.png" width="200px" height="430px"> <img src="https://user-images.githubusercontent.com/65578254/116647860-75835e00-a930-11eb-8ad4-87c6ae23f7a1.png" width="200px" height="430px"> <img src="https://user-images.githubusercontent.com/65578254/116647866-77e5b800-a930-11eb-9033-94bd1654223c.png" width="200px" height="430px"> <img src="https://user-images.githubusercontent.com/65578254/116647868-7a481200-a930-11eb-8802-0478590d12a6.png" width="200px" height="430px">
 
-<a href="http://walk-with-friends-app.herokuapp.com"><img src="https://user-images.githubusercontent.com/65578254/115622281-7cfd9400-a2ac-11eb-84ed-b1d381b6ecf8.png" width="200px"></a> <a href="http://walk-with-friends-app.herokuapp.com"><img src="https://user-images.githubusercontent.com/65578254/115622338-91419100-a2ac-11eb-8195-501eebb48e69.png" width="200px"></a> <a href="http://walk-with-friends-app.herokuapp.com"><img src="https://user-images.githubusercontent.com/65578254/115622916-5724bf00-a2ad-11eb-81cd-fdd6ccd535af.png" width="200px"></a> <a href="http://walk-with-friends-app.herokuapp.com"><img src="https://user-images.githubusercontent.com/65578254/115623093-96eba680-a2ad-11eb-89b9-ef688f3ca52c.png" width="200px"></a> <a href="http://walk-with-friends-app.herokuapp.com"><img src="https://user-images.githubusercontent.com/65578254/115623272-d2867080-a2ad-11eb-88e2-af457e77a79f.png" width="200px"></a> <a href="http://walk-with-friends-app.herokuapp.com"><img src="https://user-images.githubusercontent.com/65578254/115624055-eda5b000-a2ae-11eb-84a0-33d1d4c3ffaa.png" width="200px"></a> <a href="http://walk-with-friends-app.herokuapp.com"><img src="https://user-images.githubusercontent.com/65578254/115623959-c4851f80-a2ae-11eb-81df-c9a300e9774b.png" width="200px"></a> <a href="http://walk-with-friends-app.herokuapp.com"><img src="https://user-images.githubusercontent.com/65578254/115624586-b71c6500-a2af-11eb-91e1-52ebb9c19ad0.png" width="200px"></a>
+
+
+<img src="https://user-images.githubusercontent.com/65578254/116647143-b5494600-a92e-11eb-97eb-7bad8cc1ed79.gif" width="250px">
+
 
 
 ### 2. Fruit & Veg Goals
@@ -29,7 +33,7 @@ A dynamic HTML, CSS, and JavaScript app that promotes a healthy lifestyle by tra
 
 [Live Site](https://angelsleung.github.io/fruit-and-veg-goals) / [Source Code](https://github.com/angelsleung/fruit-and-veg-goals)
 
-<img src="https://user-images.githubusercontent.com/65578254/116644404-1ae60400-a928-11eb-8d08-0caec2d0a701.png" width="200px"> <img src="https://user-images.githubusercontent.com/65578254/116644422-29342000-a928-11eb-8615-ed265baab773.png" width="200px"> <img src="https://user-images.githubusercontent.com/65578254/116644459-41a43a80-a928-11eb-868b-50c8465d6858.png" width="200px"> <img src="https://user-images.githubusercontent.com/65578254/116644493-5f719f80-a928-11eb-9d73-24615f950a4b.png" width="200px">
+<img src="https://user-images.githubusercontent.com/65578254/116644404-1ae60400-a928-11eb-8d08-0caec2d0a701.png" width="200px" height="430px"> <img src="https://user-images.githubusercontent.com/65578254/116644422-29342000-a928-11eb-8615-ed265baab773.png" width="200px" height="430px"> <img src="https://user-images.githubusercontent.com/65578254/116644459-41a43a80-a928-11eb-868b-50c8465d6858.png" width="200px" height="430px"> <img src="https://user-images.githubusercontent.com/65578254/116644493-5f719f80-a928-11eb-9d73-24615f950a4b.png" width="200px" height="430px">
 
 <img src="https://user-images.githubusercontent.com/65578254/116644032-2c7adc00-a927-11eb-9143-5a0aa5f42c65.gif" width="250px">
 
