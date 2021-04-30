@@ -1,7 +1,5 @@
 # Welcome to my GitHub! 👋😄
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=angelsleung&hide=stars,contribs&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 💁‍ About Me
 My experience in the healthcare industry and passion for wellness inspired me to pursue a career as a software engineer. Once I discovered how much I love using my creativity to solve problems and transforming my ideas into reality, I decided that I want to build apps that have a meaningful, lasting impact.
 
@@ -20,13 +18,10 @@ Since technology is the most effective way to reach as many people as possible, 
 A full-stack JavaScript, React.js, and Node.js web app that encourages an active lifestyle by allowing users to create walking routes on a map and share them with friends.
 
 [Live Site](http://walk-with-friends-app.herokuapp.com) / [Source Code](https://github.com/angelsleung/walk-with-friends)
+
 <img src="https://user-images.githubusercontent.com/65578254/116647850-70beaa00-a930-11eb-904a-6d70c093ee9e.png" width="200px" height="430px"> <img src="https://user-images.githubusercontent.com/65578254/116647860-75835e00-a930-11eb-8ad4-87c6ae23f7a1.png" width="200px" height="430px"> <img src="https://user-images.githubusercontent.com/65578254/116647866-77e5b800-a930-11eb-9033-94bd1654223c.png" width="200px" height="430px"> <img src="https://user-images.githubusercontent.com/65578254/116647868-7a481200-a930-11eb-8802-0478590d12a6.png" width="200px" height="430px">
 
-
-
 <img src="https://user-images.githubusercontent.com/65578254/116647143-b5494600-a92e-11eb-97eb-7bad8cc1ed79.gif" width="250px">
-
-
 
 ### 2. Fruit & Veg Goals
 A dynamic HTML, CSS, and JavaScript app that promotes a healthy lifestyle by tracking users' fruit and vegetable intake and assisting users in reaching their daily consumption goals.
@@ -37,6 +32,8 @@ A dynamic HTML, CSS, and JavaScript app that promotes a healthy lifestyle by tra
 
 <img src="https://user-images.githubusercontent.com/65578254/116644032-2c7adc00-a927-11eb-9143-5a0aa5f42c65.gif" width="250px">
 
+## 📊 Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=angelsleung&hide=stars,contribs&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📱 Let's connect!
 <a href="https://www.linkedin.com/in/angelsleung/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:asleung8@uw.edu/"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://drive.google.com/file/d/1vyTYavRzYYya6aKYxeiDM3KNL2iy3AlI/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
