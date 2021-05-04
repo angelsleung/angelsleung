@@ -19,7 +19,9 @@ I am passionate about building apps that improve the lives of others, whether it
 
 A full-stack JavaScript and React web app that encourages an active lifestyle by allowing users to plot walking routes on a map, modify and save their routes, and share them with other users
 
-[Live Site](http://walk-with-friends-app.herokuapp.com) / [Source Code](https://github.com/angelsleung/walk-with-friends)
+[Live Site](http://walk-with-friends-app.herokuapp.com) <-- _To preview the app, log in as "demo" user with the pre-filled-in credentials_
+
+[Source Code](https://github.com/angelsleung/walk-with-friends)
 
 <img src="https://user-images.githubusercontent.com/65578254/116647850-70beaa00-a930-11eb-904a-6d70c093ee9e.png" width="200px" height="430px"> <img src="https://user-images.githubusercontent.com/65578254/116647860-75835e00-a930-11eb-8ad4-87c6ae23f7a1.png" width="200px" height="430px"> <img src="https://user-images.githubusercontent.com/65578254/116647866-77e5b800-a930-11eb-9033-94bd1654223c.png" width="200px" height="430px"> <img src="https://user-images.githubusercontent.com/65578254/116647868-7a481200-a930-11eb-8802-0478590d12a6.png" width="200px" height="430px">
 
@@ -28,7 +30,9 @@ A full-stack JavaScript and React web app that encourages an active lifestyle by
 ### 2. 🍎🍌 Fruit & Veg Goals 🥕🥬
 A dynamic JavaScript, HTML, and CSS app that promotes a healthy lifestyle by enabling users to add food items from the database to their daily log and track their progress towards their goals
 
-[Live Site](https://angelsleung.github.io/fruit-and-veg-goals) / [Source Code](https://github.com/angelsleung/fruit-and-veg-goals)
+[Live Site](https://angelsleung.github.io/fruit-and-veg-goals)
+
+[Source Code](https://github.com/angelsleung/fruit-and-veg-goals)
 
 <img src="https://user-images.githubusercontent.com/65578254/116644404-1ae60400-a928-11eb-8d08-0caec2d0a701.png" width="200px" height="430px"> <img src="https://user-images.githubusercontent.com/65578254/116644422-29342000-a928-11eb-8615-ed265baab773.png" width="200px" height="430px"> <img src="https://user-images.githubusercontent.com/65578254/116644459-41a43a80-a928-11eb-868b-50c8465d6858.png" width="200px" height="430px"> <img src="https://user-images.githubusercontent.com/65578254/116644493-5f719f80-a928-11eb-9d73-24615f950a4b.png" width="200px" height="430px">
 
