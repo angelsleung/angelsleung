@@ -39,7 +39,7 @@ A dynamic JavaScript, HTML, and CSS app that promotes a healthy lifestyle by ena
 <img src="https://user-images.githubusercontent.com/65578254/116644032-2c7adc00-a927-11eb-9143-5a0aa5f42c65.gif" width="250px">
 
 ## 📱 Let's connect! 😃
-<a href="https://www.linkedin.com/in/angelsleung/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:angelhleung@gmail.com/"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://drive.google.com/file/d/1umcJpC13YYIACqSAvqCE_6jAcvU-s6LP/view"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/angelsleung/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:angelhleung@gmail.com/"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://drive.google.com/file/d/10oPk4v7vHSpvmRE77FfdW0-1NBthjs83/view"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
 
 <!--
 **angelsleung/angelsleung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
