@@ -17,7 +17,7 @@ I am passionate about building apps that improve the lives of others, whether it
 
 ### 1. 👟👟Walk with Friends 🚶‍♂️🚶‍♀️
 
-A full-stack JavaScript and React web app that encourages an active lifestyle by allowing users to plot walking routes on a map, modify and save their routes, and share them with other users.
+A full-stack JavaScript and React web app that encourages an active lifestyle by allowing users to plot walking routes on a map, modify and save their routes, and share them with other users
 
 [Live Site](http://walk-with-friends-app.herokuapp.com) <-- _To preview the app, log in as "demo" user with the pre-filled-in credentials_
 
@@ -28,7 +28,7 @@ A full-stack JavaScript and React web app that encourages an active lifestyle by
 <img src="https://user-images.githubusercontent.com/65578254/117356633-d21ed580-ae68-11eb-86d1-0ceb0f2fc7c9.gif" width="250px">
 
 ### 2. 🍎🍌 Fruit & Veg Goals 🥕🥬
-A dynamic JavaScript, HTML, and CSS app that promotes a healthy lifestyle by enabling users to add food items from the database to their daily log and track their progress towards their goals.
+A dynamic JavaScript, HTML, and CSS app that promotes a healthy lifestyle by enabling users to add food items from the database to their daily log and track their progress towards their goals
 
 [Live Site](https://angelsleung.github.io/fruit-and-veg-goals)
 
